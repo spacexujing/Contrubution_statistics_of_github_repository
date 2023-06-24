@@ -1,3 +1,5 @@
+# you need pip install pygithub
+# not install github.
 from github import Github
 from github import Auth
 
